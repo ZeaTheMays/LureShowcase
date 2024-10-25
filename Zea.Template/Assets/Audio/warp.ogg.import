@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/warp.ogg-a2cf313098644ef745af63784dc1ecbf.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Template/Assets/Audio/warp.ogg"
+dest_files=[ "res://.import/warp.ogg-a2cf313098644ef745af63784dc1ecbf.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

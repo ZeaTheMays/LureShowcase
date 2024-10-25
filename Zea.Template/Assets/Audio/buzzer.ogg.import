@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/buzzer.ogg-bbdb6a864be542898452782701b81a7b.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Template/Assets/Audio/buzzer.ogg"
+dest_files=[ "res://.import/buzzer.ogg-bbdb6a864be542898452782701b81a7b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hello.ogg-b6d2b827d611ede89d0541bd223e3100.oggstr"
+
+[deps]
+
+source_file="res://mods/Zea.Template/Assets/Audio/hello.ogg"
+dest_files=[ "res://.import/hello.ogg-b6d2b827d611ede89d0541bd223e3100.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
